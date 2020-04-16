@@ -8,3 +8,6 @@ Technologies used: HTML, CSS, React.js
 
 #[Movie Search](https://moviesearch1.netlify.com)
 Technologies used: HTML, CSS, Javascript
+
+#[IOS Calculator](https://radu-react-calculator.netlify.app/)
+Technologies used: HTML, CSS, React.js
